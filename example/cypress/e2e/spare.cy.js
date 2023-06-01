@@ -52,5 +52,7 @@ describe('all the tests combined + getting the bookingnumber/price', () => {
 
     cy.get('input').eq(3).should('be.visible');
 
+    cy.get('p').eq(1).should('be.visible');
+
   })
 });
