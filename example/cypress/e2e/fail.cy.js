@@ -1,4 +1,4 @@
-describe('allows the user to book multiple lanes/players on a specific date and time', () => {
+describe('a test that gets a fail', () => {
     it('passes', () => {
       cy.visit('http://localhost:5173/')
   
