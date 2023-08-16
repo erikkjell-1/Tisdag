@@ -1,6 +1,6 @@
 describe('a test that gets a fail', () => {
     it('passes', () => {
-      cy.visit('http://localhost:5173/')
+      cy.visit('http://localhost:5177/')
   
       cy.wait(1000);
   
